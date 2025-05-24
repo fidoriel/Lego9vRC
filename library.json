@@ -1,0 +1,25 @@
+{
+    "name": "Lego9vRC",
+    "version": "0.0.1",
+    "description": "Control LEGO 7897 and 7898 with Arduino",
+    "keywords": "lego, ir, 9v, 7897, 7898",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fidoriel/lego9vrc.git"
+    },
+    "authors": [
+        {
+            "name": "fidoriel",
+            "email": "49869342+fidoriel@users.noreply.github.com",
+            "url": "https://fidoriel.github.io/blog/",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/fidoriel/lego9vrc/",
+    "dependencies": {
+        "cyborg5/IRLib2": "^2.0.0"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
